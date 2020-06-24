@@ -29,7 +29,7 @@ variables:
       declaim|declare|define-condition|define-compiler-macro|
         define-declaration|define-method-combination|define-setf-method|
         defclass|defgeneric|defmacro|defmethod|define-modify-macro|defpackage|
-        defsetf|defstruct|deftype|defun|defvar|
+        defsetf|defstruct|deftype|defun|defvar|defconstant|defparameter|
       flet|
       generic-flet|generic-function|generic-labels|
       labels|let\*?|locally|
